@@ -1,7 +1,7 @@
 # AirAsia-Tasks-5
 Setup Alerts and monitoring on the CPU/Memory for the cluster using Prometheus/Grafana.
 
-## This Task is dobe via Helm
+## This Task is done via Helm
 
 ## Steps to perform
 
